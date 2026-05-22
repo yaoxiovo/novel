@@ -1,7 +1,7 @@
 import type { APIRoute } from "astro";
 
 export const GET: APIRoute = ({ site }) => {
-	const siteUrl = site ?? new URL("https://blog.yaoxi.wiki");
+	const siteUrl = site ?? new URL("https://novel.yaoxi.wiki");
 	const sitemapUrl = new URL("sitemap-index.xml", siteUrl).href;
 
 	const robotsTxt = `

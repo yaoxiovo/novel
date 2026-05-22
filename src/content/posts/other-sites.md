@@ -16,4 +16,4 @@ lang: 'zh_CN'
 ::url{href="https://yaoxi.wiki"}
 ::url{href="https://music.yaoxi.wiki"}
 ::url{href="https://docs.yaoxi.wiki"}
-::url{href="https://blog.yaoxi.wiki"}
+::url{href="https://novel.yaoxi.wiki"}

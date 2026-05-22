@@ -89,7 +89,7 @@ export const siteConfig: SiteConfig = {
 		},
 	],
 	officialSites: [
-		{ url: "https://blog.yaoxi.wiki", alias: "CN" },
+		{ url: "https://novel.yaoxi.wiki", alias: "CN" },
 	],
 	server: [
 		{ url: "", text: "小说网主站节点" },
@@ -167,7 +167,7 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 
 export const gitHubEditConfig: GitHubEditConfig = {
 	enable: true,
-	baseUrl: "https://github.com/yaoxiovo/astro/blob/main/src/content/posts",
+	baseUrl: "https://github.com/yaoxiovo/novel/blob/main/src/content/posts",
 };
 
 // todoConfig removed from here
