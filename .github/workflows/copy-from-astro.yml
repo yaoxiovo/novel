@@ -1,0 +1,45 @@
+name: Copy files from astro
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout novel
+        uses: actions/checkout@v4
+        with:
+          path: novel
+
+      - name: Checkout astro
+        uses: actions/checkout@v4
+        with:
+          repository: yaoxiovo/astro
+          ref: main
+          path: astro
+
+      - name: Replace files
+        run: |
+          shopt -s dotglob
+          find novel -mindepth 1 \
+            ! -path 'novel/.git' \
+            ! -path 'novel/.git/*' \
+            -exec rm -rf {} +
+          cp -a astro/. novel/
+          rm -rf novel/.git
+
+      - name: Commit and push
+        run: |
+          cd novel
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Copy files from astro" || exit 0
+          git push
