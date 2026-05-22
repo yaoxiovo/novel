@@ -1,0 +1,9 @@
+{
+	"redirects": [
+                                  {
+			"source": "/esa",
+			"destination": "https://astro.ba30df2f.er.aliyun-esa.net",
+			"statusCode": 302
+		}
+	]
+}
