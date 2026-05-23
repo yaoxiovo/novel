@@ -1,0 +1,247 @@
+﻿[
+    {
+        "schemaname":  "auth",
+        "tablename":  "audit_log_entries",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "custom_oauth_providers",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "flow_state",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "identities",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "instances",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "mfa_amr_claims",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "mfa_challenges",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "mfa_factors",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "oauth_authorizations",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "oauth_client_states",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "oauth_clients",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "oauth_consents",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "one_time_tokens",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "refresh_tokens",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "saml_providers",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "saml_relay_states",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "schema_migrations",
+        "row_count":  76
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "sessions",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "sso_domains",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "sso_providers",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "users",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "webauthn_challenges",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "auth",
+        "tablename":  "webauthn_credentials",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "_prisma_migrations",
+        "row_count":  14
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "event_data",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "link",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "pixel",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "report",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "revenue",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "segment",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "session",
+        "row_count":  2364
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "session_data",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "team",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "team_user",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "user",
+        "row_count":  1
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "website",
+        "row_count":  3
+    },
+    {
+        "schemaname":  "public",
+        "tablename":  "website_event",
+        "row_count":  4363
+    },
+    {
+        "schemaname":  "realtime",
+        "tablename":  "messages",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "realtime",
+        "tablename":  "schema_migrations",
+        "row_count":  68
+    },
+    {
+        "schemaname":  "realtime",
+        "tablename":  "subscription",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "storage",
+        "tablename":  "buckets",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "storage",
+        "tablename":  "buckets_analytics",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "storage",
+        "tablename":  "buckets_vectors",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "storage",
+        "tablename":  "migrations",
+        "row_count":  61
+    },
+    {
+        "schemaname":  "storage",
+        "tablename":  "objects",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "storage",
+        "tablename":  "s3_multipart_uploads",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "storage",
+        "tablename":  "s3_multipart_uploads_parts",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "storage",
+        "tablename":  "vector_indexes",
+        "row_count":  0
+    },
+    {
+        "schemaname":  "vault",
+        "tablename":  "secrets",
+        "row_count":  0
+    }
+]

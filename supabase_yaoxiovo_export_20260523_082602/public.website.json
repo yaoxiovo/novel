@@ -1,0 +1,41 @@
+﻿[
+    {
+        "website_id":  "8d2bc13d-c3e6-4109-8511-91d96f979d32",
+        "name":  "home",
+        "domain":  "yaoxi.xyz",
+        "share_id":  null,
+        "reset_at":  null,
+        "user_id":  "41e2b680-648e-4b09-bcd7-3e2b10c06264",
+        "created_at":  "2026-01-01T12:48:01.059+00:00",
+        "updated_at":  "2026-01-01T12:48:01.059+00:00",
+        "deleted_at":  null,
+        "created_by":  "41e2b680-648e-4b09-bcd7-3e2b10c06264",
+        "team_id":  null
+    },
+    {
+        "website_id":  "011bd980-e5d9-44e5-b1f6-4dc30a9b0e83",
+        "name":  "blog",
+        "domain":  "cs.yaoxi.xyz",
+        "share_id":  "CLGxRecPqPn9IidK",
+        "reset_at":  null,
+        "user_id":  "41e2b680-648e-4b09-bcd7-3e2b10c06264",
+        "created_at":  "2026-01-01T14:01:47.534+00:00",
+        "updated_at":  "2026-01-01T14:03:51.674+00:00",
+        "deleted_at":  null,
+        "created_by":  "41e2b680-648e-4b09-bcd7-3e2b10c06264",
+        "team_id":  null
+    },
+    {
+        "website_id":  "c37514e4-067b-4a7c-9082-a70256eae952",
+        "name":  "论文探讨站",
+        "domain":  "docs.yaoxi.wiki",
+        "share_id":  "7JVOfcJzzTxG1VQH",
+        "reset_at":  null,
+        "user_id":  "41e2b680-648e-4b09-bcd7-3e2b10c06264",
+        "created_at":  "2026-02-23T07:45:27.149+00:00",
+        "updated_at":  "2026-02-23T07:45:40.106+00:00",
+        "deleted_at":  null,
+        "created_by":  "41e2b680-648e-4b09-bcd7-3e2b10c06264",
+        "team_id":  null
+    }
+]

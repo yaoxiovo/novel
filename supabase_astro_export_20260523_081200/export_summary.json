@@ -1,0 +1,20 @@
+﻿{
+    "project":  "astro",
+    "project_id":  "coflcylljuxcjyynkdmi",
+    "exported_at":  "2026-05-23 08:13:03 +08:00",
+    "total_tables":  35,
+    "non_empty_tables":  [
+                             {
+                                 "table":  "auth.schema_migrations",
+                                 "rows":  76
+                             },
+                             {
+                                 "table":  "realtime.schema_migrations",
+                                 "rows":  69
+                             },
+                             {
+                                 "table":  "storage.migrations",
+                                 "rows":  61
+                             }
+                         ]
+}

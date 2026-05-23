@@ -1,0 +1,11 @@
+﻿{
+    "user_id":  "41e2b680-648e-4b09-bcd7-3e2b10c06264",
+    "username":  "admin",
+    "password":  "$2b$10$BUli0c.muyCW1ErNJc3jL.vFRFtFJWrT8/GcR4A.sUdCznaXiqFXa",
+    "role":  "admin",
+    "created_at":  "2026-01-01T12:43:59.607243+00:00",
+    "updated_at":  null,
+    "deleted_at":  null,
+    "display_name":  null,
+    "logo_url":  null
+}

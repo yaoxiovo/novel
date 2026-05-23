@@ -1,0 +1,106 @@
+﻿{
+    "project":  "yaoxiovo\u0027s Project",
+    "project_id":  "rodaalglkhcedpvbvdot",
+    "exported_at":  "2026-05-23 08:27:38 +08:00",
+    "total_tables":  49,
+    "public_tables_exported":  [
+                                   {
+                                       "table":  "public._prisma_migrations",
+                                       "rows":  14
+                                   },
+                                   {
+                                       "table":  "public.event_data",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.link",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.pixel",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.report",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.revenue",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.segment",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.session",
+                                       "rows":  2364
+                                   },
+                                   {
+                                       "table":  "public.session_data",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.team",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.team_user",
+                                       "rows":  0
+                                   },
+                                   {
+                                       "table":  "public.user",
+                                       "rows":  1
+                                   },
+                                   {
+                                       "table":  "public.website",
+                                       "rows":  3
+                                   },
+                                   {
+                                       "table":  "public.website_event",
+                                       "rows":  4363
+                                   }
+                               ],
+    "non_empty_tables":  [
+                             {
+                                 "schemaname":  "auth",
+                                 "tablename":  "schema_migrations",
+                                 "row_count":  76
+                             },
+                             {
+                                 "schemaname":  "public",
+                                 "tablename":  "_prisma_migrations",
+                                 "row_count":  14
+                             },
+                             {
+                                 "schemaname":  "public",
+                                 "tablename":  "session",
+                                 "row_count":  2364
+                             },
+                             {
+                                 "schemaname":  "public",
+                                 "tablename":  "user",
+                                 "row_count":  1
+                             },
+                             {
+                                 "schemaname":  "public",
+                                 "tablename":  "website",
+                                 "row_count":  3
+                             },
+                             {
+                                 "schemaname":  "public",
+                                 "tablename":  "website_event",
+                                 "row_count":  4363
+                             },
+                             {
+                                 "schemaname":  "realtime",
+                                 "tablename":  "schema_migrations",
+                                 "row_count":  68
+                             },
+                             {
+                                 "schemaname":  "storage",
+                                 "tablename":  "migrations",
+                                 "row_count":  61
+                             }
+                         ]
+}
