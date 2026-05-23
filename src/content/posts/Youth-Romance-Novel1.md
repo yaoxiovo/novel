@@ -1,5 +1,5 @@
 ---
-title: 小说文1
+title: 《青春低噪区》——原创
 published: 2026-04-25
 description: 青春恋爱小说文第一章
 tags:
